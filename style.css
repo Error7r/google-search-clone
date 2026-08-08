@@ -1,0 +1,35 @@
+h1{
+    color:"red";
+    text-align: center;
+}
+
+form {
+    justify-content: center;
+    position: absolute;
+    left: 50%;
+    top : 50%;
+    transform: translate(-50%,-50%)
+}
+
+.search{
+    --padding : 14px;
+    width : max-content;
+    padding : var(--padding);
+    border-radius : 28px;
+    background : #f6f6f6;
+    align-items: center;
+    display : flex ;
+}
+
+.search-input{
+    font-size : 15px;
+    font-family : 'Lexend' ,sans-serif;
+    color : #333333;
+    margin-left :  var(--padding);
+
+    outline : none ;
+    border : none ;
+    background:  transparent;
+    
+}
+
