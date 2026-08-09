@@ -1,6 +1,8 @@
 # Google Search Clone
 
-A simple front-end clone of Google's search page — built with just HTML and CSS.
+A front-end clone of Google's search page with three fully working search modes.
+
+[![Demo Video](https://img.shields.io/badge/Demo-YouTube-red?logo=youtube)](https://youtu.be/6r7TPGhHWgY)
 
 ## Tech Stack
 
@@ -10,8 +12,16 @@ A simple front-end clone of Google's search page — built with just HTML and CS
 
 ## What It Does
 
-Three pages that look and work like Google Search. You can type a query and it actually searches Google — the forms submit directly to Google's real search endpoints. There's a regular search page, an image search page, and an advanced search page with extra filters. Also has the "I'm Feeling Lucky" button.
+- Regular search page that submits queries directly to Google's real search
+- Image search page that searches Google Images
+- Advanced search page with extra filters (exact phrase, any words, exclude words)
+- "I'm Feeling Lucky" button
+- Navigation between all three search pages
 
 ## Context
 
-Built as part of Harvard's CS50W course (Project 0).
+Built as part of Harvard's CS50 Web Programming with Python and JavaScript course.
+
+## How to Run
+
+Open `index.html` directly in your browser — no server needed.
