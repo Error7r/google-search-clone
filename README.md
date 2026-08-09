@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="a1" src="https://github.com/user-attachments/assets/ebc61df3-607e-430e-a6c9-605343bedddc" />
+
+
 # Google Search Clone
 
 A front-end clone of Google's search page with three fully working search modes.
@@ -19,6 +22,13 @@ A front-end clone of Google's search page with three fully working search modes.
 - Navigation between all three search pages
 
 ## Context
+A cs50w project 0
+
+<img width="1920" height="1080" alt="a2" src="https://github.com/user-attachments/assets/5df59996-6d14-4094-aa05-de158ead4dfc" />
+<img width="1920" height="1080" alt="a3" src="https://github.com/user-attachments/assets/60e3b583-9df1-440b-9671-ee3f526038dd" />
+
+
+
 
 Built as part of Harvard's CS50 Web Programming with Python and JavaScript course.
 
